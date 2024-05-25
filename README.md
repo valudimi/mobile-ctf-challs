@@ -13,24 +13,17 @@ This challenge is meant to introduce students to `jadx` for decompilation, to ha
 
 This challange is very easy, look for strings and hashes to put together the pieces of the flag.
 
-### Login
-
-More forensics (exiftool, binwalk)
-
-### Reverse (iOS)
-
-Reverse logic to rebuild flag
-
-### Extraction (iOS)
-
-Forensics shit
-
 
 ## Medium Challenges
 
 ### IVDrip
 
 This challenge can be approached either by employing Frida to modify a segment of the flag decryption code, or by replicating the behavior of the decryption function in a different programming language, such as Python.
+
+### Extraction
+
+This challenge contains 3 flags - one is hidden within the drawable images via exiftool, another is a comment in a .xml file (with a hint for the drawable image), and the last one requires the students to decode a password in order to display a broken QR code. Once repaired, the QR code will lead to a flag hidden within junk value. The QR code can also be found without decoding the password.
+
 
 ## Hard Challenges
 TODO
