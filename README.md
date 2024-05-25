@@ -1,4 +1,4 @@
-TODO
+Daca nu ne doare pl prea tare, ar fi misto sa facem rahaturile astea sa ofere un parcurs de la 0 la functional in mobile CTF shit
 
 ## Easy Challenges
 ### Logcat
