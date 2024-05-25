@@ -9,6 +9,10 @@ This challenge is meant to introduce students to `adb` and the `logcat` tool, as
 
 This challenge is meant to introduce students to `jadx` for decompilation, to hash decryption and file obfuscation. This is a two step challange where the first step offers a hit for decrypting the flag.
 
+### RedFlag
+
+TODO AU
+
 ### Login
 
 More forensics (exiftool, binwalk)
