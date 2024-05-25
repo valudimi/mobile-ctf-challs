@@ -3,7 +3,7 @@ TODO
 ## Easy Challenges
 ### Logcat
 
-This challenge is meant to introduce students to `adb` and the `logcat` tool. The challenge can also be solved through reverse engineering, but in a longer time interval.
+This challenge is meant to introduce students to `adb` and the `logcat` tool, as well as decompilation, since the challenge can be solved through reverse engineering as well. Although easy, it provides a good first step into mobile CTFing.
 
 ### Login
 
