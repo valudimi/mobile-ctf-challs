@@ -11,7 +11,7 @@ This challenge is meant to introduce students to `jadx` for decompilation, to ha
 
 ### RedFlag
 
-TODO AU
+This challange is very easy, look for strings and hashes to put together the pieces of the flag.
 
 ### Login
 
