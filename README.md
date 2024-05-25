@@ -1,11 +1,11 @@
 TODO
 
 ## Easy Challenges
-1. Logcat
+### Logcat
 
 This challenge is meant to introduce students to `adb` and the `logcat` tool. The challenge can also be solved through reverse engineering, but in a longer time interval.
 
-2. Login
+### Login
 
 TODO
 
