@@ -26,4 +26,13 @@ This challenge contains 3 flags - one is hidden within the drawable images via e
 
 
 ## Hard Challenges
-TODO
+
+### Hermes
+This task involves a simple TCP client-server chat application between two parties.
+Traffic is encrypted using AES, with the key being derived from a secret hardcoded
+in the APK file. A network capture is given that contains the communication between
+two parties. The flag will be revelead if all messages are succesfully decrypted.
+
+The files which should be distributed to solvers are located in `dist`.
+For a solution, use `sol/run.sh` coupled with the associated java and python code.
+The source code of the application is located in `hermes`.
